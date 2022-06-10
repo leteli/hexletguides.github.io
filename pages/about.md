@@ -1,11 +1,8 @@
 ---
 layout: page
-title: О проекте
-permalink: "/about/"
+title: About
+permalink: "about/"
 # image: assets/images/screenshot.png
 ---
 
-Hexlet Guides (Гайды и статьи для программистов) - это проект с открытым исходным кодом, созданный и поддерживаемый сообществом Hexlet. Присоединяйтесь к сообществу, публикуйте свои гайды, исправляйте неточности. Расскажите о сайте коллегам и друзьям! Исходный код проекта Hexlet Guides доступен на GitHub. Вы можете поучаствовать в процессе разработки.
-
-[Исходный код проекта](https://github.com/Hexlet/hexletguides.github.io)
-
+Hexlet Guides is an open source project created and supported by Hexlet's community. Join to our community, publish new guides, help with editing.
